@@ -9,4 +9,3 @@
 *.otf
 *.DS_Store
 ./test_imgs/*
-model.ipynb
