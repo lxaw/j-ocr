@@ -6,7 +6,6 @@ name = "pypi"
 [packages]
 pdf2img = "*"
 pdf2image = "*"
-transformers = "*"
 pandas = "*"
 numpy = "*"
 fonttools = "*"
@@ -17,6 +16,10 @@ matplotlib = "*"
 fugashi = "*"
 ipadic = "*"
 unidic-lite = "*"
+datasets = "*"
+jiwer = "*"
+accelerate = "*"
+transformers = {extras = ["torch"], version = "*"}
 
 [dev-packages]
 ipykernel = "*"
