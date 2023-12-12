@@ -8,6 +8,7 @@ pdf2img = "*"
 pdf2image = "*"
 transformers = "*"
 pandas = "*"
+numpy = "*"
 
 [dev-packages]
 ipykernel = "*"
