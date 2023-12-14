@@ -1,5 +1,10 @@
-# Pipeline
-1) Generate data
-- Follow [here](https://github.com/kha-white/manga-ocr/tree/master/manga_ocr_dev/synthetic_data_generator)
+# Model to Recognize Kanji, Hiragana, and Katakana Characters.
 
-2) 
+Will be prettier soon.
+
+To be used in future pdf -> text pipeline.
+
+### Output example
+- Classification of 100 images from the test set. 
+- The predictions (in read) are superimposed on the input images.
+![100 test images](https://github.com/lxaw/kanji-ocr/blob/main/predictions.png)
