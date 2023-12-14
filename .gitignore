@@ -1,11 +1,11 @@
 ./images/*
 ./src_pdfs/*
 *.jpg
-*.png
 *.txt
 ./fonts/*
 *.csv
 *.pdf
 *.otf
+*.pth
 *.DS_Store
 ./test_imgs/*

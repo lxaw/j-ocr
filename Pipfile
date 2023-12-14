@@ -20,6 +20,8 @@ datasets = "*"
 jiwer = "*"
 accelerate = "*"
 transformers = {extras = ["torch"], version = "*"}
+natsort = "*"
+ipykernel = "*"
 
 [dev-packages]
 ipykernel = "*"
