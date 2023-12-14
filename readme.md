@@ -1,5 +1,8 @@
 # Model to Recognize Kanji, Hiragana, and Katakana Characters.
 
+## TO DO:
+Train on more slanted / warped images. Some of the bad classifications come from the really messed up images; we can just make more testing examples.
+
 Will be prettier soon.
 
 To be used in future pdf -> text pipeline.
