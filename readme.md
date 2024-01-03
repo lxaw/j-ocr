@@ -1,7 +1,12 @@
 # Model to Recognize Kanji, Hiragana, and Katakana Characters.
 
+## Idea:
+- Need something to recognize Kanji characters for future PDF reader.
+- So I made a character recognizer for the Joyo kanji.
+
 ## TO DO:
-Train on more slanted / warped images. Some of the bad classifications come from the really messed up images; we can just make more testing examples.
+- More transformations. Slant, blur, rotate, etc.
+- More characters. Special characters like ・？＊, etc. Latin characters, in both horizontal and vertical. 
 
 Will be prettier soon.
 
